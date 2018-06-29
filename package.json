@@ -1,0 +1,11 @@
+{
+  "name": "biotope-build-webpack",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/janrembold/biotope-build-webpack.git",
+  "author": "Jan Rembold <jan.rembold@virtual-identity.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.13.0"
+  }
+}
